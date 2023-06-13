@@ -48,7 +48,7 @@ Do resultado: O usuário tem acesso ao conteúdo e interage com a plataforma de 
 <p align="center">Aqui há o Trello feito por mim, este que é o ambiente utilizado para organizar o projeto de acordo com tarefas, etapas, links úteis e a data de realização de cada processo.</p>
 
 
-<p align="center"><a href="https://trello.com/b/5053MZ5C/sp-medical-group"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </a></p>
+<p align="center"><a href="https://trello.com/b/CUwwmGUt/grupo-4-volkswagen-code"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </a></p>
 
 &nbsp;
 &nbsp;
