@@ -49,25 +49,3 @@ Do resultado: O usuário tem acesso ao conteúdo e interage com a plataforma de 
 
 
 <p align="center"><a href="https://trello.com/b/CUwwmGUt/grupo-4-volkswagen-code"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </a></p>
-
-&nbsp;
-&nbsp;
-
-## <p align="center">Professores</p>
-<table align="center">
-  <tr>
-    <th>Professor</th>
-    <th>Github</th>
-  </tr>
-  <tr>
-  <tr>
-    <td>Aléxia Vitória</td>
-    <td><a href="https://github.com/alexiamelhado18"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a></td>
-  </tr>
-    <td>Odirlei</td>
-    <td> <a href="https://github.com/odirlei-assis"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a></td>
-  </tr>
-</table>
-
-&nbsp;
-&nbsp;
