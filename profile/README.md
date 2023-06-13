@@ -17,14 +17,14 @@
     Proprietário de caminhões;
     Administrador.
 - O motorista, administrador da frota e proprietário de caminhão poderá visualizar as promoções conforme o seu perfil;
-- O administrador poderá cadastrar promoções/campanhas(tanto em publicidade de engajamento, saúde, etc)/propagandas para cada tipo de usuário;
+- O administrador poderá cadastrar promoções/campanhas(tanto em publicidade de engajamento, saúde, etc)/propagandas para cada tipo de usuário.
 
 ## 🔨 Funcionalidades do Sistema Mobile
 
 - O motorista, administrador da frota e proprietário de caminhão poderá visualizar as promoções conforme o seu perfil;
 - Redirecionamento para canais de emergência com botão SOS: O motorista poderá clicar no botão SOS e alertar ao canal de SOS da Volkswagen;
 - O motorista poderá checar o desgaste do pneu com base em uma foto tirada sendo: Bom/Meia vida ou Desgastado;
-- O motorista poderá preencher um check list antes de iniciar a rota e o administrador da frota poderá checar os check lists das viagens;
+- O motorista poderá preencher um check list antes de iniciar a rota e o administrador da frota poderá checar os check lists das viagens.
 
 ## ✔️ Técnicas e tecnologias
 
