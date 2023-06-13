@@ -44,8 +44,10 @@
 &nbsp;
 &nbsp;
 
-## <p align="center">Trello 📝</p>
-<p align="center">Aqui há o Trello feito por mim, este que é o ambiente utilizado para organizar o projeto de acordo com tarefas, etapas, links úteis e a data de realização de cada processo.</p>
+## <p align="center">Trello e Figma 📝</p>
+<p align="center">Aqui há o Trello feito por nós, este que é o ambiente utilizado para organizar o projeto de acordo com tarefas, etapas, links úteis e a data de realização de cada processo. Além disso o todo o design do projeto está no Figma abaixo.</p>
 
 
 <p align="center"><a href="https://trello.com/b/CUwwmGUt/grupo-4-volkswagen-code"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </a></p>
+
+<p align="center"><a href="https://trello.com/b/CUwwmGUt/grupo-4-volkswagen-code](https://www.figma.com/file/m7Nejy4N7WtVTbImkn7eo2/Design-Alta%2FBaixa-Fidelidade---Grupo-4---Volkswagen-CODE?type=design&node-id=0%3A1&t=nXUioayWJoBPYYN1-1)https://www.figma.com/file/m7Nejy4N7WtVTbImkn7eo2/Design-Alta%2FBaixa-Fidelidade---Grupo-4---Volkswagen-CODE?type=design&node-id=0%3A1&t=nXUioayWJoBPYYN1-1"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white))https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> </a></p>
