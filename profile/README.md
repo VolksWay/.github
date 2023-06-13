@@ -2,11 +2,11 @@
 
 Propósito (qual a intenção deste projeto? Porque estamos fazendo esse projeto?)
 
-Da intenção: Criar um aplicativo que execute em diferentes devices: Web, Mobile que servirá de canal de divulgação, interação e engajamento do cliente externo com a VWCO.
+- Da intenção: Criar um aplicativo que execute em diferentes devices: Web, Mobile que servirá de canal de divulgação, interação e engajamento do cliente externo com a VWCO.
 
-Objetivo do produto: O sistema web deverá conter quatro perfis de usuários. Um administrativo para que o colaborador da empresa possa visualizar, cadastrar, alterar e excluir promoções. E outros acessos para clientes: motorista, administrador da frota, proprietário do caminhão, os mesmos poderão visualizar seu perfil, interagir com a plataforma além de consumir conteúdos personalizados. Além disso, será possível preencher um check list de segurança, sendo possível checar o desgaste do pneu com base em fotos.
+- Objetivo do produto: O sistema web deverá conter quatro perfis de usuários. Um administrativo para que o colaborador da empresa possa visualizar, cadastrar, alterar e excluir promoções. E outros acessos para clientes: motorista, administrador da frota, proprietário do caminhão, os mesmos poderão visualizar seu perfil, interagir com a plataforma além de consumir conteúdos personalizados. Além disso, será possível preencher um check list de segurança, sendo possível checar o desgaste do pneu com base em fotos.
 
-Do resultado: O usuário tem acesso ao conteúdo e interage com a plataforma de forma rápida e prática, além de conseguir checar sua segurança, tanto com itens prioritários do veículo e o pneus com a foto. E que o administrador possa gerenciar eventos dinamicamente.
+- Do resultado: O usuário tem acesso ao conteúdo e interage com a plataforma de forma rápida e prática, além de conseguir checar sua segurança, tanto com itens prioritários do veículo e o pneus com a foto. E que o administrador possa gerenciar eventos dinamicamente.
 
 
 ## 🔨 Funcionalidades do Sistema Web
