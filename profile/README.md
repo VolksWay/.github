@@ -1,6 +1,6 @@
 # VolksWay
 
-Propósito (qual a intenção deste projeto? Porque estamos fazendo esse projeto?)
+**Propósito (qual a intenção deste projeto? Porque estamos fazendo esse projeto?)**
 
 - Da intenção: Criar um aplicativo que execute em diferentes devices: Web, Mobile que servirá de canal de divulgação, interação e engajamento do cliente externo com a VWCO.
 
