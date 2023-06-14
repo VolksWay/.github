@@ -1,4 +1,4 @@
-# VolksWay
+# VolksWay (Projeto em parceria com a Fundação Volkswagen e o Senai de informática)
 
 **Propósito (qual a intenção deste projeto? Porque estamos fazendo esse projeto?)**
 
