@@ -45,7 +45,7 @@
 &nbsp;
 
 ## <p align="center">Trello e Figma 📝</p>
-<p align="center">Aqui há o Trello feito por nós, este que é o ambiente utilizado para organizar o projeto de acordo com tarefas, etapas, links úteis e a data de realização de cada processo. Além disso o todo o design do projeto está no Figma abaixo.</p>
+<p align="center">Aqui há o Trello feito por nós, este que é o ambiente utilizado para organizar o projeto de acordo com tarefas, etapas, links úteis e a data de realização de cada processo. Além disso todo o design do projeto está no Figma abaixo.</p>
 
 
 <p align="center"><a href="https://trello.com/b/CUwwmGUt/grupo-4-volkswagen-code"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </a></p>
